@@ -1,4 +1,4 @@
-# hello_world
+# First steps in Java
 First depository
 
 Hi all! 
